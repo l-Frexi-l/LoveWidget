@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846096970048",
+    "project_id": "lovewidget-29a77",
+    "storage_bucket": "lovewidget-29a77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846096970048:android:36b11417fd5711c81e4aa5",
+        "android_client_info": {
+          "package_name": "com.example.lovewidget"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65uWescniaS-kDXRNvX7Fh7C8OvkusHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
